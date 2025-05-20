@@ -1,0 +1,20 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers Word temporaires
+~$*
+
+# Fichiers temporaires
+*.tmp
+*.bak
